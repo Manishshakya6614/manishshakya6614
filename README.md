@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish shakya</h1>
-<h3 align="center">Prefinal Year Student at National Institute of Technology Karnataka</h3>
+<h3 align="center">Final Year Student at National Institute of Technology Karnataka</h3>
 
 - 🌱 I’m currently learning **advanced tools and concepts in android development**
 
